@@ -155,7 +155,7 @@ int main(){
         
         //exit the program
         else if(option == 6){
-            status = 1;
+            status = true;
         }
 
         //for invalid input
