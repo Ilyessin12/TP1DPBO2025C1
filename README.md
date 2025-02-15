@@ -5,6 +5,6 @@ Saya Lyan Nazhabil Dzuquwwa dengan NIM 2308428 mengerjakan Latihan Modul 1 dan T
 # Dokumentasi
 
 ![alt text](Images/image.png)
-![alt text](Images/image2.png)
-![alt text](Images/image3.png)
-![alt text](Images/image4.png)
+![alt text](Images/image2.jpg)
+![alt text](Images/image3.jpg)
+![alt text](Images/image4.jpg)
