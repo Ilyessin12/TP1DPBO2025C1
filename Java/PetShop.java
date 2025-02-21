@@ -1,4 +1,5 @@
 public class PetShop {
+    // Attributes
     private String id;
     private String namaProduk;
     private String kategoriProduk;

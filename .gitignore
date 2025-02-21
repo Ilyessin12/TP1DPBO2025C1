@@ -1,3 +1,5 @@
 /.vscode
 /main.exe
 /java/*.class
+/python/*.pyc
+/python/__pycache__/

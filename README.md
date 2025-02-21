@@ -11,7 +11,7 @@ Program ini memiliki 1 Class, yaitu PetShop dengan Atribut berikut:
 - hargaProduk
 - fotoProduk
 
-Additional Notes: Untuk fotoProduk di CPP, Java, dan Python, ia hanya menampillkan kata ada atau tidak ada. Untuk di PHP ia akan menampilkan gambar yang nanti di upload
+Additional Notes: Untuk fotoProduk di CPP hanya menampilkan 1 atau 0. Di Java dan Python, ia hanya menampillkan kata ada atau tidak ada. Untuk di PHP ia akan menampilkan gambar yang nanti di upload.
 
 ## Alur Program
 
@@ -42,3 +42,7 @@ P.S. : Untuk cpp ada kesalahan teknis, jadi yang mencari malah memakai pencarian
 ![alt text](Images/imagejava2.jpg)
 ![alt text](Images/imagejava3.jpg)
 
+### Python
+![alt text](Images/imagepython1.jpg)
+![alt text](Images/imagepython2.jpg)
+![alt text](Images/imagepython3.jpg)
