@@ -15,7 +15,7 @@ Additional Notes: Untuk fotoProduk di CPP hanya menampilkan 1 atau 0. Di Java da
 
 ## Alur Program
 
-Untuk Menjalankan Program, cukup jalankan file main di setiap bahasa, Program memiliki 6 opsi untuk dapat dipilih
+Untuk Menjalankan Program, cukup jalankan file main di setiap bahasa, untuk PHP dijalankan di localhost. Program memiliki 6 opsi untuk dapat dipilih:
 - Untuk menambahkan data, ketik Opsi `1`
 - Untuk menghapus data, ketik opsi `2` lalu input id yang ingin dihapus
 - Untuk menampilkan semua data, ketik opsi `3`
@@ -26,6 +26,8 @@ Untuk Menjalankan Program, cukup jalankan file main di setiap bahasa, Program me
 Ada aturan khusus untuk atribut id:
 - id bersifat unique, sehingga tidak boleh ada id yang nilainya sama
 - untuk menghapus dan mengubah data perlu menggunakan nilai id pada data yang ada, jika id yang dimasukkan tidak ada di data maka tidak akan melakukan apa-apa
+
+Note: Untuk PHP, user tidak dapat input data melalui form atau semacamnya
 
 
 ## Dokumentasi
@@ -46,3 +48,8 @@ P.S. : Untuk cpp ada kesalahan teknis, jadi yang mencari malah memakai pencarian
 ![alt text](Images/imagepython1.jpg)
 ![alt text](Images/imagepython2.jpg)
 ![alt text](Images/imagepython3.jpg)
+
+### PHP
+![alt text](Images/imagephp1.jpg)
+![alt text](Images/imagephp2.jpg)
+![alt text](Images/imagephp3.jpg)
