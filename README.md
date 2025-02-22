@@ -50,6 +50,6 @@ P.S. : Untuk cpp ada kesalahan teknis, jadi yang mencari malah memakai pencarian
 ![alt text](Images/imagepython3.jpg)
 
 ### PHP
-![alt text](Images/imagephp1.jpg)
-![alt text](Images/imagephp2.jpg)
-![alt text](Images/imagephp3.jpg)
+![alt text](Images/imagephp1.png)
+![alt text](Images/imagephp2.png)
+![alt text](Images/imagephp3.png)
